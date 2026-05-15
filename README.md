@@ -1,4 +1,3 @@
 # Sunday Projects
 
-Built on Sundays.
-Forgotten on Mondays.
+## Built on Sundays...................Forgotten on Mondays.
