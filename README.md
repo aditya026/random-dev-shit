@@ -1,3 +1,3 @@
 # random-dev-shit
 
-## Built on Sundays...................Forgotten on Mondays.
+## My digital junk drawer of experiments and half-finished ideas.........
