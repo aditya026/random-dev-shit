@@ -29,7 +29,7 @@
 
 ## Another level project
 - [ ] [Edge AI Object Detection on Raspberry Pi/Jetson Nano](https://medium.com/@avgaming2630/edge-ai-object-detection-on-raspberry-pi-jetson-nano-a825b152711e?sharedUserId=avgaming2630)
-- [ ] Smart Health Monitoring Wearable with Cloud Dashboard
+- [ ] [Smart Health Monitoring Wearable with Cloud Dashboard](https://medium.com/@avgaming2630/building-an-iot-health-monitor-esp32-mqtt-and-real-time-anomaly-detection-a85103998668?sharedUserId=avgaming2630)
 - [ ] Gesture-Controlled Robot Arm
 - [ ] Autonomous Line-Following/Obstacle-Avoiding Rover with SLAM basics
 - [ ] Voice-Controlled Home Automation with Custom NLU (not just Alexa/Google)
